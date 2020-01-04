@@ -1,0 +1,4709 @@
+{
+    "listapp1": {
+        "type": "template",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "template": {
+            "type": "carousel",
+            "actions": [],
+            "columns": [
+                {
+                    "thumbnailImageUrl": "https://cdn.dribbble.com/users/287797/screenshots/2406073/watch_me.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "YOUTUBE CHANNEL",
+                    "text": "Silahkan klik subcrabe untuk berlangganan secara gratis",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "https://www.youtube.com/channel/UCldvaYYqkUShUSXnatSgpyw"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "CHANNEL APP",
+                            "uri": "line://app/1564313616-7l6e3q0w"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "SUBSCRABE",
+                            "uri": "https://www.youtube.com/channel/UCldvaYYqkUShUSXnatSgpyw"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://lh3.googleusercontent.com/HLiybXI4a0kOZwRt85jy81jsEcb2ptHivjt4SyOEjvub2IhsREXZYP0W6nIj4TTdvw",
+                    "imageBackgroundColor": "#002727",
+                    "title": "X_VIDEOS 81+",
+                    "text": "khusu indo pakai vpn bukanya wkwkwk",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1609524990-1jLXNPLN"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "OPEN OKEP",
+                            "uri": "line://app/1609524990-1jLXNPLN"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "INSTALL VPN",
+                            "uri": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://cdn.dribbble.com/users/293796/screenshots/3438995/fb-likes.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "HOME FACEBOOK",
+                    "text": "aplikasi facebook lite",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "FACEBOOK",
+                            "uri": "line://app/1609524990-mpvZ5xv5"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "REQUEST LIFF",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://cdn.dribbble.com/users/640742/screenshots/2631862/2016-04-04.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "PLAYSTORE & SOUNDCLOUD",
+                    "text": "klik disini",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1623679774-qmmXPXJ5"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "GOOGLE PLAY",
+                            "uri": "line://app/1623679774-qmmXPXJ5"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "SOUNDCLOUD",
+                            "uri": "line://app/1623679774-lGOq9q3G"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://3.bp.blogspot.com/-5p6QJyOsxFU/Vrt-7HfarjI/AAAAAAAACqY/SblUkK8sirA/s1600/despicable%2Bme%2B2-%2B01.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+                    "text": "add kontak di bawah ini guys",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "LINE ME",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "OFFICIAL",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "listapp2": {
+        "type": "template",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "template": {
+            "type": "carousel",
+            "actions": [],
+            "columns": [
+                {
+                    "thumbnailImageUrl": "https://4.bp.blogspot.com/--v3eJySaEAc/WJ3h-xv71cI/AAAAAAAAAS4/MpCkvEUtcUQOb2Whl1JE9T6hoMHLhYFzQCLcB/s1600/road-rash.gif",
+                    "title": "HIGHWAY",
+                    "text": "game online gratis",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1623679774-j4rZkZ51"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "MAINKAN",
+                            "uri": "line://app/1623679774-j4rZkZ51"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "GAME LAINYA",
+                            "uri": "line://app/1609524990-ODaJ0Va0"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://4.bp.blogspot.com/-z8E8S4aUma4/W4FW08PDxXI/AAAAAAAAF68/CaALDedJN1EAi9U6ygS4R_1viuvkKQwbACLcBGAs/s1600/PicsArt_08-25-08.14.43.gif",
+                    "imageBackgroundColor": "#FFFFFF",
+                    "title": "SMULE_ID",
+                    "text": "Sing! Smule",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1623679774-rAvzDz16"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "SMULE VOG",
+                            "uri": "line://app/1623679774-rAvzDz16"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "SMULE WEB",
+                            "uri": "line://app/1609524990-GgOweZOe"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://perpetualbeta.vcfa.edu/wp-content/uploads/2016/05/VCFADesign_Twitter_Instagram.gif",
+                    "imageBackgroundColor": "#FFFFFF",
+                    "title": "INSTAGRAM & TWITTER",
+                    "text": "SOSIAL MEDIA",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "INSTAGRAM",
+                            "uri": "line://app/1609524990-2pakJ9aJ"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "TWITTER",
+                            "uri": "line://app/1609524990-P4ajo8ao"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://raw.githubusercontent.com/prankbots/logo/master/20181227_003531.jpg",
+                    "imageBackgroundColor": "#FFFFFF",
+                    "title": "LOGO NAME ONLINE",
+                    "text": "klik disini untuk membuat",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1609524990-pdlOGglG"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "CREATE LOGO",
+                            "uri": "line://app/1609524990-pdlOGglG"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "TEKS FANCY",
+                            "uri": "line://app/1609524990-gD4e2X42"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://4.bp.blogspot.com/-a-B8IZ3ST70/WE_QklRe2YI/AAAAAAAFMt4/mVy0NIudtD4LyQUD9CY82JuM9HM37uGeQCLcB/s1600/AW293929_01.gif",
+                    "imageBackgroundColor": "#FAFAFA",
+                    "title": "SEND STICKER GIF",
+                    "text": "LINE STICKER",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "GIF STICKER",
+                            "uri": "line://app/1623679774-k9nBDB6b?type=sticker&stk=anim&sid=36276468&pkg=3259824"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "IMG STICKER",
+                            "uri": "line://app/1623679774-k9nBDB6b?type=sticker&stk=noanim&sid=36276468&pkg=3259824"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "joingroup": {
+        "type": "template",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "template": {
+            "type": "carousel",
+            "actions": [],
+            "columns": [
+                {
+                    "thumbnailImageUrl": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u4a385a6f1c97ea8e11c484723f96a76e&oid=1564635047",
+                    "size": "full",
+                    "aspectRatio": "1:1",
+                    "title": "ƬΣΛM BӨƬ MΛX",
+                    "text": "༺ ขอบคุณที่เชิญเข้าร่วมกลุ่มครับ ༻\n༺ ขายไฟล์บอท ทุกชนิด ฯลฯ ༻",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "LINE Official",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "Facebook",
+                            "uri": "line://app/1602290395-4G9yMWqw"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u4a385a6f1c97ea8e11c484723f96a76e&oid=1564635047",
+                    "size": "full",
+                    "aspectRatio": "1:1",
+                    "imageBackgroundColor": "#FFFFFF",
+                    "title": "ƬΣΛM BӨƬ MΛX",
+                    "text": "༺ ขอบคุณที่เชิญเข้าร่วมกลุ่มครับ ༻\n༺ ขายไฟล์บอท ทุกชนิด ฯลฯ ༻",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "GitHub",
+                            "uri": "line://app/1602290395-y5GQpB3P"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "XVIDEO",
+                            "uri": "line://app/1602290395-678nA0WL"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u4a385a6f1c97ea8e11c484723f96a76e&oid=1564635047",
+                    "size": "full",
+                    "aspectRatio": "1:1",
+                    "imageBackgroundColor": "#FAFAFA",
+                    "title": "ƬΣΛM BӨƬ MΛX",
+                    "text": "༺ ขอบคุณที่เชิญเข้าร่วมกลุ่มครับ ༻\n༺ ขายไฟล์บอท ทุกชนิด ฯลฯ ༻",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "YOUTUBE",
+                            "uri": "line://app/1602290395-YoKMJPle"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "JOOX",
+                            "uri": "line://app/1602290395-jnOXKlPv"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "wadd": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#FFFFFF"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#FFFFFF"
+                },
+                "hero": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#FFFFFF"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#FFFFFF"
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u4a385a6f1c97ea8e11c484723f96a76e&oid=1564635047",
+                "size": "full",
+                "aspectRatio": "1:1"
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "     ༺ ข้อความทักทายเพื่อนใหม่ ༻",
+                        "color": "#FFFFFF"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "  ༺ ระบบทำการบล็อกไว้ชั่วคราว ༻",
+                        "color": "#FFFFFF"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "༺ กรุณารอเจ้าของบัญชีมาปลดบล็อก ༻",
+                        "color": "#FFFFFF"
+                    }
+                ]
+            }
+        }
+    },
+    "flex_autoadd": {
+		"type":"flex",
+		"altText":"ƬΣΛM BӨƬ MΛX",
+		"contents":{
+			"type": "carousel",
+			"contents": [
+				{
+					"type": "bubble",
+                    "size": "giga",
+                    "direction": "ltr",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ ข้อความทักทายเพื่อนใหม่ ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "ƬΣΛM BӨƬ MΛX",
+									"uri": "line://app/1602290395-4G9yMWqw"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ปล่อยเช่าเซิร์ฟเวอร์ ราคาถูก มีครบ",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์บอท บอทบินมาใหม่ บิน & ยกเชิญ",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายลิ้งบินกลุ่ม 1 ลิ้ง 20 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับลบรันจนหมด 100 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ปล่อยเช่าบอท เดือนละ 100 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ ลบกลุ่ม บินกลุ่ม & สคิป",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ บอทเฟ็ก & Template",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ คิกเกอร์ & War",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้ไฟล์บอท ทุกชนิด",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับสอนแก้บอท ไฟล์ & สคิป",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับทำทุกอย่างเกี่ยวกับบอท LINE",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้ไลน์เข้าไม่ได้ & โดนบล็อกการเข้าใช้งาน",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้แสปมเฟสบุ๊ก & ยืนยันตัวตน",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปั้มไลค์ Facebook",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปั้มผู้ติดตาม Facebook",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "༺ ติดต่อแอดมิน ༻",
+									"uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+    "help_max": {
+		"type":"flex",
+		"altText":"ƬΣΛM BӨƬ MΛX",
+		"contents":{
+			"type": "carousel",
+			"contents": [
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "ƬΣΛM BӨƬ MΛX",
+									"uri": "line://app/1602290395-4G9yMWqw"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ปล่อยเช่าเซิร์ฟเวอร์ ราคาถูก มีครบ",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์บอท บอทบินมาใหม่ บิน & ยกเชิญ",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายลิ้งบินกลุ่ม 1 ลิ้ง 20 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับลบรันจนหมด 100 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ปล่อยเช่าบอท เดือนละ 100 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ ลบกลุ่ม บินกลุ่ม & สคิป",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ บอทเฟ็ก & Template",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ คิกเกอร์ & War",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้ไฟล์บอท ทุกชนิด",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับสอนแก้บอท ไฟล์ & สคิป",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปรึกษาทุกเรื่องเกี่ยวกับ โซเชียล",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้ไลน์เข้าไม่ได้ & โดนบล็อกการเข้าใช้งาน",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้แสปมเฟสบุ๊ก & ยืนยันตัวตน",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปั้มไลค์ Facebook",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปั้มผู้ติดตาม Facebook",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "༺ กดเพื่อสั่งซื้อบอท ༻",
+									"uri": "line://oaMessage/@jnx0914l/?มาซื้อบอทครับ"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "༺ กดเพื่อเพิ่มเพื่อน ༻",
+									"uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+                            }
+						]
+					}
+				},
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับเมนูคำสั่ง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Menu"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับการตั้งค่า",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Setting"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับป้องกันกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Protect"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Group"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับเพื่อน",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Friend"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับโปรไฟล์",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Profile"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับมีเดียร์",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Media"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับแสปม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Spam"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งสำหรับสติกเกอร์",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Sticker"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "BY : TEAM BOT MAX",
+							  "color": "#333333",
+							  "size": "xxs"
+							}
+						]
+					}
+				},
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งลงบัญชีดำ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Bancontact%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งล้างบัญชีดำ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Unbancontact%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเตะบัญชีดำ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Killban"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเช็คบัญชีดำ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Banlist"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเช็คคอนแทค",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Bc"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งล้างดำทั้งหมด",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Cb"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูข้อมูลกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Groupinfo"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเช็คเพื่อน",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Friendlist"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเช็คกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Grouplist"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "BY : TEAM BOT MAX",
+							  "color": "#333333",
+							  "size": "xxs"
+							}
+						]
+					}
+				},
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งลบแชททั้งหทด",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Remove"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดลิ้งกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Open"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดลิ้งกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Close"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งขอลิ้งกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Url"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเช็คโปรไฟล์",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Myprofile"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเช็ครายชื่อบล็อก",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Blocklist"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเช็คไอดีกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Groupid"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูรูปกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Grouppict"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูรูปโปรไฟล์",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Mypicture"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "BY : TEAM BOT MAX",
+							  "color": "#333333",
+							  "size": "xxs"
+							}
+						]
+					}
+				},
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูชื่อตัวเอง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Myname"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูตัสตัวเอง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Mybio"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูมิดตัวเอง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Mymid"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูรูปปกตัวเอง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Mycover"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งขอลิ้งรูปปก",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Mycover%20url"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งขอลิ้งไลน์ตัวเอง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Myurl"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูสมาชิกค้างเชิญ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Pendinglist"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งดูชื่อสมาชิกกลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Namelist"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งยกเลิกข้อความ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Unsend%2050"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "BY : TEAM BOT MAX",
+							  "color": "#333333",
+							  "size": "xxs"
+							}
+						]
+					}
+				},
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดป้องกันลิ้ง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockqr%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดป้องกันลิ้ง",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockqr%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดป้องกันคนลบ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockkick%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดป้องกันคนลบ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockkick%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดป้องกันคนเชิญ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockinvite%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดป้องกันคนเชิญ",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockinvite%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดป้องกันคนเข้ากลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockjoin%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดป้องกันคนเข้ากลุ่ม",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Lockjoin%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งตั้งค่าป้องกันทั้งหมด",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Protect"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "BY : TEAM BOT MAX",
+							  "color": "#333333",
+							  "size": "xxs"
+							}
+						]
+					}
+				},
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดออโต้บล็อก",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autoblock%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดออโต้บล็อก",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autoblock%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดเพิ่มเพื่อนออโต้",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autoadd%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดเพิ่มเพื่อนออโต้",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autoadd%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดมุดลิ้งกลุ่มออโต้",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autojointicket%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดมุดลิ้งกลุ่มออโต้",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autojointicket%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งเปิดเข้ากลุ่มออโต้",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autojoin%20on"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งปิดเข้ากลุ่มออโต้",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Autojoin%20off"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "คำสั่งตั้งค่าทั้งหมด",
+									"uri": "line://app/1623679774-k9nBDB6b?type=text&text=Setting"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "BY : TEAM BOT MAX",
+							  "color": "#333333",
+							  "size": "xxs"
+							}
+						]
+					}
+				},
+				{
+					"type": "bubble",
+					"body": {
+						"type": "box",
+						"layout": "vertical",
+						"contents": [
+							{
+								"type": "text",
+								"text": "     ༺ คำสั่งสำหรับแอดมินบอท ༻"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "ƬΣΛM BӨƬ MΛX",
+									"uri": "line://app/1602290395-4G9yMWqw"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ปล่อยเช่าเซิร์ฟเวอร์ ราคาถูก มีครบ",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์บอท บอทบินมาใหม่ บิน & ยกเชิญ",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายลิ้งบินกลุ่ม 1 ลิ้ง 20 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับลบรันจนหมด 100 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ปล่อยเช่าบอท เดือนละ 100 บาท",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ ลบกลุ่ม บินกลุ่ม & สคิป",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ บอทเฟ็ก & Template",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• ขายไฟล์ คิกเกอร์ & War",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้ไฟล์บอท ทุกชนิด",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับสอนแก้บอท ไฟล์ & สคิป",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปรึกษาทุกเรื่องเกี่ยวกับ โซเชียล",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้ไลน์เข้าไม่ได้ & โดนบล็อกการเข้าใช้งาน",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับแก้แสปมเฟสบุ๊ก & ยืนยันตัวตน",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปั้มไลค์ Facebook",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "• รับปั้มผู้ติดตาม Facebook",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+							  "type": "text",
+							  "text": "_________________________________________________",
+							  "color": "#000000",
+							  "size": "xxs"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "༺ กดเพื่อสั่งซื้อบอท ༻",
+									"uri": "line://oaMessage/@jnx0914l/?มาซื้อบอทครับ"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							},
+							{
+								"type": "button",
+								"action": {
+									"type": "uri",
+									"label": "༺ กดเพื่อเพิ่มเพื่อน ༻",
+									"uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+								},
+								"height": "sm",
+								"style": "primary",
+								"color": "#000000"
+							}
+						]
+					}
+				}
+			]
+		}
+	},
+    "booble": {
+        "type": "template",
+        "altText": "membagikan sempak bolong",
+        "template": {
+            "type": "carousel",
+            "actions": [],
+            "columns": [
+                {
+                    "thumbnailImageUrl": "https://1.bp.blogspot.com/-0cJUYiIj9So/Wg_statUjsI/AAAAAAAAK1k/6L1sY5xJEIUfi-8hxW6KuKBSy6jiVoChQCLcBGAs/s1600/Casey_Youtube_GIF.0.gif",
+                    "title": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+                    "text": "REPOSITORY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "YOUTUBE",
+                            "uri": "line://app/1623679774-9GWpqpGw"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "OWNER",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://preview.ibb.co/ksscEq/1541434980556.jpg",
+                    "title": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+                    "text": "FARTHNER",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "MAX CREATOR",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "MAX PROFILE",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "pricelist": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "hero": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                },
+                "footer": {
+                    "backgroundColor": "#333333",
+                    "separator": true
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452",
+                "size": "full",
+                "aspectRatio": "1:1"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "    ★ PRICE LIST ★",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "text",
+                        "text": "★ ＳＥＬＦＢＯＴＢＹＭＡＸ ★",
+                        "weight": "bold",
+                        "size": "lg",
+                        "margin": "md"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ผู้สร้าง โดย แม็ค ทำใน ประเทศไทย",
+                        "size": "xs",
+                        "color": "#aaaaaa",
+                        "wrap": true
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "xxl",
+                        "spacing": "sm",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "50 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "3 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "100 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "5 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "200 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "7 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "280 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "9 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "380 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "11 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "450 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "separator",
+                                "margin":"md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "คุณลักษณะ",
+                                        "size": "sm",
+                                        "color": "#C00006"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "สถานะ",
+                                        "size": "sm",
+                                        "color": "#C00006",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "separator",
+                                "margin": "md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴀɴᴛɪ ᴊs",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴘʀᴏᴛᴇᴄᴛɪᴏɴ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴍᴇᴅɪᴀ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴛᴇᴍᴘʟᴀᴛᴇs",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ʀᴇᴠᴏᴋᴇ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✖",
+                                        "size": "sm",
+                                        "color": "#F7141F",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴀᴜᴛᴏ ʀᴜɴɴᴇʀ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ʟɪғғ ᴀᴘᴘ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "sᴘᴇᴇᴅ ᴜᴘ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "0,02-0,001",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ʙᴏᴛ ᴡᴀʀ",
+                                        "size": "sm",
+                                        "color": "#F7141F"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "60 บาท/Bot",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "MAX BOT",
+                                "size": "xs",
+                                "color": "#10CF08",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "MAX VPS",
+                                "color": "#10CF08",
+                                "size": "xs",
+                                "align": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "ติดต่อ",
+                                    "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "teambotmax": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "hero": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                },
+                "footer": {
+                    "backgroundColor": "#333333",
+                    "separator": true
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://sv1.picz.in.th/images/2019/08/09/Zd7F7y.jpg",
+                "size": "full",
+                "aspectRatio": "1:1"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "            ༺ รายการราคาสินค้า ༻",
+                        "weight": "bold",
+                        "color": "#ff7f24",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "text",
+                        "text": " 〖ＴＥＡＭ ＢＯＴ ＭＡＸ〗",
+                        "weight": "bold",
+                        "size": "lg",
+                        "margin": "md"
+                    },
+                    {
+                        "type": "text",
+                        "text": "                                  BY MAX",
+                        "size": "xs",
+                        "color": "#ee0000",
+                        "wrap": true
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "xxl",
+                        "spacing": "sm",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ครึ่งคน ครึ่งบอท",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "100 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "บอท ป้องกัน",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "300 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "บอท รันกลุ่ม",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "300 บาท",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "separator",
+                                "margin":"md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "༺ ชื่อสินค้า ༻",
+                                        "size": "sm",
+                                        "color": "#FF1493"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "༺ สถานะ ༻",
+                                        "size": "sm",
+                                        "color": "#FF1493",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "separator",
+                                "margin": "md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "บอท เฟค",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "บอท ป้องกัน",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✖",
+                                        "size": "sm",
+                                        "color": "#ee0000",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "บอท รันกลุ่ม",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ความเร็วบอท",
+                                        "size": "sm",
+                                        "color": "#FF3300"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "0.02-0.008",
+                                        "size": "sm",
+                                        "color": "#FF3300",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ดูแลลูกค้า",
+                                        "size": "sm",
+                                        "color": "#FF3300"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "24 ชม.",
+                                        "size": "sm",
+                                        "color": "#FF3300",
+                                        "align": "end"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "TEAM BOT MAX",
+                                "size": "xs",
+                                "color": "#EEEE00",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "TEAM BOT MAX",
+                                "color": "#EEEE00",
+                                "size": "xs",
+                                "align": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "༺ สนใจติดต่อ ༻",
+                                    "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                                },
+                                "style": "primary",
+                                "color": "#FF0000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "owner": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#708090",
+                    "separator": true
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "md",
+                "contents": [
+                    {
+                        "type": "button",
+                        "style": "primary",
+                        "action": {
+                            "type": "uri",
+                            "label": "BUTTON 1",
+                            "uri": "https://example.com"
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "style": "secondary",
+                        "action": {
+                            "type": "uri",
+                            "label": "BUTTON 2",
+                            "uri": "https://example.com"
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "style": "link",
+                        "action": {
+                            "type": "uri",
+                            "label": "BUTTON 3",
+                            "uri": "https://example.com"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "block": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "hero": {
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/Aprank/botkicker/master/prankbots.png",
+                "size": "full",
+                "aspectRatio": "3:1"
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "☆• ＳＥＬＦＢＯＴＢＹＭＡＸ •☆",
+                        "color": "#00ffff"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "BODY",
+                        "color": "#10CF08"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "BUTTON",
+                        "color": "#F7141F"
+                    }
+                ]
+            }
+        }
+    },
+    "filler": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "hero": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452",
+                "size": "full",
+                "aspectRatio": "2:1"
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRojbvSsQmY-XGX7fxO4wW-NpVTJ3pu82zmIHcgKmBmNs6I9YxU"
+                    },
+                    {
+                        "type": "filler"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://preview.ibb.co/ksscEq/1541434980556.jpg"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "md",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xl"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "MAX",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        },
+                        "style": "primary",
+                        "color": "#F7141F"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "ORDER",
+                            "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                        },
+                        "style": "primary",
+                        "color": "#00ff7f"
+                    }
+                ]
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+                        "color": "#F7141F"
+                        
+                    }
+                ]
+            }
+        }
+    },
+    "aboutnya": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "「 ABOUT 」",
+                        "color": "#000000",
+                        "align": "center",
+                        "size": "lg",
+                        "weight":"bold"
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "✯͜͡❂ Version : 10.0",
+                        "color": "#000000",
+                        "wrap": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "✯͜͡❂ Edited by Team bot max",
+                        "color": "#000000",
+                        "wrap": true
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Add Friend",
+                        "align": "center",
+                        "weight": "bold",
+                        "color": "#000000"
+                    }
+                ]
+            },
+            "styles": {
+                "header": {
+                    "backgroundColor": "#FF4500"
+                },
+                "body": {
+                    "backgroundColor": "#FFA500"
+                },
+                "footer": {
+                    "backgroundColor": "#FF4500"
+                }
+            }
+            
+        }
+    },
+    "color1": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "KODE WARNA HTML PART 1",
+                        "color": "#00ffff"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FOF8FF&text=FOF8FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FAEBD7&text=FAEBD7",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FFFF&text=00FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7FFFD4&text=7FFFD4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F0FFFF&text=F0FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5F5DC&text=F5F5DC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFE4C4&text=FFE4C4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/000000&text=000000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFEBCD&text=FFEBCD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/0000FF&text=0000FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8A2BE2&text=8A2BE2",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/A52A2A&text=A52A2A",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DEB887&text=DEB887",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/5F9EAD&text=5F9EAD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7FFF00&text=7FFF00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D2691E&text=D2691E",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF7F50&text=FF7F50",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/649500&text=649500",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFF8DC&text=FFF8DC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DC143C&text=DC143C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FFFF&text=00FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00008B&text=00008B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B8860B&text=B8860B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/A9A9A9&text=A9A9A9",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/006400&text=006400",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8B008B&text=8B008B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/BDB76B&text=BDB76B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/556B2F&text=556B2F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF8C00&text=FF8C00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9932CC&text=9932CC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8B0000&text=8B0000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/E9967A&text=E9967A",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8FBC8B&text=8FBC8B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/2F4F4F&text=2F4F4F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/483D8B&text=483D8B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00CED1&text=00CED1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9400D3&text=9400D3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF1493&text=FF1493",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00BFFF&text=00BFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/696969&text=696969",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/1E90FF&text=1E90FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B22222&text=B22222",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFAF0&text=FFFAF0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/228B22&text=228B22",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF00FF&text=FF00FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DCDCDC&text=DCDCDC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F8F8FF&text=F8F8FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFD700&text=FFD700",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DAA520&text=DAA520",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/808080&text=808080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/008000&text=008000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/ADFF2F&text=ADFF2F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F0FFF0&text=F0FFF0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF69B4&text=FF69B4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/CD5C5C&text=CD5C5C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/4B0082&text=4B0082",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFFF0&text=FFFFF0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F0E68C&text=F0E68C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/E6E6FA&text=E6E6FA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFF0F5&text=FFF0F5",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7CFC00&text=7CFC00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFACD&text=FFFACD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/ADE8E6&text=ADE8E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F08080&text=F08080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/E0FFFF&text=E0FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FAFAD2&text=FAFAD2",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/90EE90&text=90EE90",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D3D3D3&text=D3D3D3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFB6C1&text=FFB6C1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFA072&text=FFA072",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/20B2AA&text=20B2AA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/87CEFA&text=87CEFA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/778899&text=778899",
+                        "size": "full"
+                    }
+                ]
+            }
+        }
+    },
+    "color2": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "KODE WARNA HTML PART 2",
+                        "color": "#00ffff"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B0C4DE&text=B0C4DE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFFE0&text=FFFFE0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FF00&text=00FF00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/32CD32&text=32CD32",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FAF0E6&text=FAF0E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF00FF&text=FF00FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/800000&text=800000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/66CDAA&text=66CDAA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/0000CD&text=0000CD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/BA55D3&text=BA55D3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9370DB&text=9370DB",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/3CB371&text=3CB371",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7B68EE&text=7B68EE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FA9A&text=00FA9A",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/48D1CC&text=48D1CC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/C71585&text=C71585",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/191970&text=191970",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5FFFA&text=F5FFFA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFE4E1&text=FFE4E1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFDEAD&text=FFDEAD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FDF5E6&text=FDF5E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/000080&text=000080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/808000&text=808000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/6B8E23&text=6B8E23",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFA500&text=FFA500",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF1000&text=FF1000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DA70D6&text=DA70D6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/EEE8AA&text=EEE8AA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/98FB98&text=98FB98",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/AFEEEE&text=AFEEEE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DB7093&text=DB7093",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFEFD5&text=FFEFD5",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFDAB9&text=FFDAB9",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/CD853F&text=CD853F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFC0CB&text=FFC0CB",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DDA0DD&text=DDA0DD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B0E0E6&text=B0E0E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/800080&text=800080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF0000&text=FF0000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/BC8F8F&text=BC8F8F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/4169E1&text=4169E1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8B4513&text=8B4513",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FA8072&text=FA8072",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F4A460&text=F4A460",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/2E8B57&text=2E8B57",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFF5EE&text=FFF5EE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/A0522D&text=A0522D",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/C0C0C0&text=C0C0C0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/87CEEB&text=87CEEB",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/708090&text=708090",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFAFA&text=FFFAFA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FF7F&text=00FF7F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/4682B4&text=4682B4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D2B48C&text=D2B48C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/008080&text=008080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D8BFD8&text=D8BFD8",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF6347&text=FF6347",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/40E0D0&text=40E0D0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/EE82EE&text=EE82EE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5DEB3&text=F5DEB3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFFFF&text=FFFFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5F5F5&text=F5F5F5",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFF00&text=FFFF00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9ACD32&text=9ACD32",
+                        "size": "full"
+                    }
+                ]
+            }
+        }
+    },
+    "help": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "hero": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "body": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "footer": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://sv1.picz.in.th/images/2019/08/09/Zd7F7y.jpg",
+                "size": "full",
+                "aspectRatio": "1:1"
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "           ༺ ƬΣΛM BӨƬ MΛX ༻",
+                        "color": "#F7141F"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "        ༺ เมนูคำสั่งโซเชียลมีเดีย ༻",
+                        "color": "#F7141F"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 1",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey1"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 2",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey2"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 3",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey3"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 4",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey4"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 5",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey5"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 6",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey6"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 7",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey7"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 8",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey8"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 9",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey9"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅼🆈 🅺🅴🆈 10",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=mykey10"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "top",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅟🆁🅸🅲🅴",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=price"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "align": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "body": {
+                    "backgroundColor": "#142700",
+                    "separator": true,
+                    "separatorColor": "#81FF00"
+                },
+                "header": {
+                    "backgroundColor": "#142700",
+                    "separator": true,
+                    "separatorColor": "#81FF00"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452",
+                                "aspectRatio": "3:4",
+                                "flex": 1,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559616082",
+                                "aspectRatio": "3:4",
+                                "flex": 1,
+                                "gravity": "center"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "TEAM BOT MAX",
+                                "color": "#F7141F",
+                                "flex": 1,
+                                "gravity": "center",
+                                "action": {
+                                    "type": "uri",
+                                    "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                                }
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "text",
+                                "text": "TEAM BOT MAX",
+                                "color": "#81FF00",
+                                "flex": 1,
+                                "gravity": "center",
+                                "action": {
+                                    "type": "uri",
+                                    "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "header": {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "md",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559616082"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559616082"
+                    }
+                ]
+            }
+        }
+    },
+    "Bing": {
+        "type": "flex",
+        "altText": "Bing検索",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "タップでコマンド実行",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "Bing",
+                                    "uri": "line://app/1599059083-zRnVpvkx"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "ニコニコ動画": {
+        "type": "flex",
+        "altText": "niconico",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "タップでコマンド実行",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "niconico",
+                                    "uri": "line://app/1596433972-wJPq813L"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "Yahoo!": {
+        "type": "flex",
+        "altText": "Yahoo!",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "タップでコマンド実行",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "Yahoo!",
+                                    "uri": "line://app/1596433972-wJPq813L"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "グーグル検索": {
+        "type": "flex",
+        "altText": "Google検索",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "タップでコマンド実行",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "Google",
+                                    "uri": "line://app/1599059083-ma1X9YrW"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "Twitter": {
+        "type": "flex",
+        "altText": "twitter",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "タップでコマンド実行",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "Twitter",
+                                    "uri": "line://app/1599059083-zrxBbgRa"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "ツイキャス": {
+        "type": "flex",
+        "altText": "ツイキャス",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "タップでコマンド実行",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "ツイキャス",
+                                    "uri": "line://app/1599059083https://00m.in/wVDlE"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "Youtube": {
+        "type": "flex",
+        "altText": "Youtube",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "タップでコマンド実行",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "Youtube",
+                                    "uri": "line://app/1599059083-Gw8Eqo06"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "spaces": {
+        "type": "flex",
+        "altText": "ＳＥＬＦＢＯＴＢＹＭＡＸ",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "body": {
+                    "backgroundColor": "#142700",
+                    "separator": true,
+                    "separatorColor": "#81FF00"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "md",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452"
+                    }
+                ]
+            }
+        }
+    },
+    "like_max": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#808080"
+                },
+                "body": {
+                    "backgroundColor": "#808080",
+                    "separator": true,
+                    "separatorColor": "#808080"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "      ꧁༺ กดไลค์ให้แล้วนะครับ ༻꧂",
+                        "weight": "bold",
+                        "color": "#000000",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "༺ กดเพื่อเพิ่มเพื่อน ༻",
+                                    "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                                },
+                                "style": "primary",
+                                "color": "#FF4500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "likednya": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "size": "giga",
+            "direction": "ltr",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "꧁༺ ไลค์ให้แล้วนะครับ ༻꧂",
+                        "color": "#FFFFFF",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+               },
+               "contents": [
+                   {
+                        "type": "text",
+                        "text": "ƬΣΛM BӨƬ MΛX",
+                        "weight": "bold",
+                        "color": "#000000",
+                        "align": "center"
+                   }
+                ]   
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#FF0000"
+                }
+            }
+        }
+    },
+    "responMentionOn": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Respon Mention Diaktifkan",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "responMentionOff": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "Respon Mention Dinonaktifkan",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "restartnya": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "ƬΣΛM BӨƬ MΛX",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "shutdownnya": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "action": {
+                   "type": "uri",
+                   "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+               },
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "ƬΣΛM BӨƬ MΛX",
+                        "color": "#000000",
+                        "align": "center",
+                        "weight":"bold",
+                        "wrap": true
+                    }
+                ]
+            },
+            "styles": {
+                "body": {
+                    "backgroundColor": "#ffda6b"
+                }
+            }
+        }
+    },
+    "galery": {
+        "type": "flex",
+        "altText": "ƬΣΛM BӨƬ MΛX",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "body": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "footer": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://obs-sg.line-apps.com/myhome/c/download.nhn?userid=u308a4e0976ace6e2e2c234a09ef9f581&oid=1559471452",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "action": {
+                    "type": "uri",
+                    "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://cdn.apk-cloud.com/detail/screenshot/7-wgkI_8WmSuzUFkTtaExC_PKHm7cb_e88ordYgOyoqHj3t8zEaM7KMWEabiW5vQ7nU=h900.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi musik joox",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅼🆄🆂🅸🅺🅹🅾🅾🆇",
+                                   "uri": "line://app/1602290395-jnOXKlPv"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://2.bp.blogspot.com/-tLtzNNcX-K0/WGHiJO6KWTI/AAAAAAAAAGc/hrXIfmLMZjkpx4WV00XDODB_tbAdJnzaQCPcB/s1600/Logo%2BGoogle%2BChrome.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi pencarian janda/duda di google",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅿🅴🅽🅲🅰🆁🅸🅰🅽",
+                                   "uri": "line://app/1602290395-kzOx2nlg"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://youtubelagu.com/wp-content/uploads/2018/05/logo-youtubelagu.com_.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi lirik musik",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅻🅸🆁🅸🅺🅻🅰🅶🆄",
+                                   "uri": "line://app/1602290395-YoKMJPle"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://cdn6.aptoide.com/imgs/b/9/7/b978f1ae85ede4ebb04949985fd55691_icon.png?w=256",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi buat ngedit foto tapi ini bukan pictart ya guys cuma di logonya aja",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅴🅳🅸🆃🅵🅾🆃🅾",
+                                   "uri": "line://app/1602290395-k4nyZ4MB"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://upload.wikimedia.org/wikipedia/id/8/8d/Calendar_Icon.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "kalo ada yang pikun sama tanggal tinggal cek disini",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅺🅰🅻🅴🅽🅳🅴🆁",
+                                   "uri": "line://app/1602290395-lJwXn4k8"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://cdn6.aptoide.com/imgs/6/e/a/6ea2ccc96ffd163017ccb5e4c43c2f68_icon.png?w=240",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi notepad buat nyatetin mantan mantan kamu tuh guys",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅽🅾🆃🅴🅿🅰🅳",
+                                   "uri": "line://app/1602290395-rPMEQ5O4"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://karpetbagus.com/wp-content/uploads/2015/01/an-msdn-tv-logo.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "top"
+                            },
+                            {
+                                "type": "text",
+                                "text": "kalo tv kamu di rumah lagi di gadein masih bisa nonton disini dan ini untuk semua channel tv",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "gravity": "top",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🆃🆅🅾🅽🅻🅸🅽🅴",
+                                   "uri": "line://app/1602290395-Lm0oq7w"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [{
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "button",
+                            "margin": "sm",
+                            "style": "primary",
+                            "color": "#E51A00",
+                            "height": "sm",
+                            "action": {
+                                "type": "uri",
+                                "label": "🅻🅸🅽🅴 🅼🅴",
+                                "uri": "line://nv/profilePopup/mid=uc14c3d87a1123df7c8ffa9d7402e59a2"
+                            }
+                        }
+                    ]
+                }]
+            }
+        }
+    }
+}

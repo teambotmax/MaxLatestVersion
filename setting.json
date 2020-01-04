@@ -1,0 +1,154 @@
+{
+    "Img": {},
+    "addImage": {
+        "name": "",
+        "status": false
+    },
+    "addSticker": {
+        "name": "",
+        "status": false
+    },
+    "addStickertemplate": {
+        "namee": "",
+        "statuss": false
+    },
+    "addTemplate": {
+        "statustext": false,
+        "texts": "http://line.me/ti/p/%40jnx0914l"
+    },
+    "addText": {
+        "statustext": false,
+        "texts": "addtext hery"
+    },
+    "addTmpStic": {
+        "name": "",
+        "status": false
+    },
+    "allchangeDual": false,
+    "allchangedual": false,
+    "maxReject": true,
+    "autoRestart": false,
+    "autolike": false,
+    "autoAdd": false,
+    "autoAddMessage": "สวัสดี @! มีอะไรสอบถามได้นะครับ 😀",
+    "autoBlock": true,
+    "autoBlockMessage": "สวัสดี ฉันได้ทำการบล็อกบัญชีของ @! ไว้แล้ว.",
+    "autoAnswerMessage": "𝐻𝒶𝓁𝑜𝑜𝑜 @! 𝒴𝒶𝓃 𝓎𝒶𝒶𝒶 \n\n𝒴𝒶𝓃 𝐿𝒶𝑔𝒾 𝒩𝓊𝑔𝒶𝓈 𝒦𝓁𝑜 𝑀𝒶𝓊 𝒹𝒾 𝒷𝒶𝓁𝑒𝓈\n\n𝒞𝒶𝓁𝓁 𝒶𝒿𝒶 𝒷𝒾𝒶𝓇 𝒩𝑜𝓉𝒾𝒻𝓃𝓎𝒶 𝓂𝒶𝓈𝓊𝓀 𝑒𝓍𝒸𝒾𝓉𝑒𝒹 𝒸𝓁𝑜𝓊𝒹",
+    "autoJoin": false,
+    "autoJoinMessage": "สวัสดี @! ขอบคุณที่เชิญเข้าร่วมกลุ่ม 💕",
+    "autoJoinTicket": false,
+    "autoRead": false,
+    "autoReply": false,
+    "autoRespon": false,
+    "autoResponMessage": " 🅰🆄🆃🅾 🆁🅴🆂🅿🅾🅽 🆃🅰🅶",
+    "autoLeave": false,
+    "autoLeaveMessage": "ₛₒᵣy gw ₗₑₐᵥₑ,, ₛₒₐₗₙyₐ yₐₙg ᵢₙᵥᵢₜₑ gw ₗₒₘ ₘₐₙdᵢ",
+    "responMentionnya": false,
+    "responMaxNewVersion": false,
+    "responMaxNewVersion2": false,
+    "mention": "อ่าว อ่าว จะแอบทำไม ออกมาคุยเป็นเพื่อนกันหน่อย 😁",
+    "taggal": "",
+    "backup": false,
+    "blackList": {},
+    "changeCover": false,
+    "changeDual": false,
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changeVpProfile": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "cloneContact": false,
+    "commentOn": false,
+    "commentPost": "╭────────────────────\n│    🍎 รับติดบอทป้องกัน & เฟ็ก 🍎\n├────────────────────\n│• ป้องกันกลุ่มแยกกลุ่ม & บล็อก\n│• บินกลุ่มได้ & ยกเชิญ แค่ 100 บาท\n│• ลบรัน & แทคทั้งห้อง & ต้อนรับ\n│• เพิ่มบัญชีดำ & เตะดำ & ล้างดำ\n│• สามารถเล่นได้หลายรูปแบบ\n│• ลูกเล่นเยอะ\n│• มีบอทล็อกอินใช้ได้ 24 ชั่วโมง\n│• รับจ้างโปรโมทร้าน & ฝากขาย\n│• มีไฟล์บอทขายทุกชนิด\n│• มีไฟล์บอทบินขาย 200 บาท\n│• มีไฟล์บอทเฟ็กขาย 1200 บาท\n│• มีไฟล์บอทป้องกันขาย 600 บาท\n│• มีสคิปจาก GitHub ขายทุกชนิด\n│• มีบอทให้เช่า 100 บ.  ต่อเดือน\n│• มีลิ้งบินขาย 30 ต่อลิ้ง\n│• มีคำสั่งบินกลุ่ม\n│• มีคำสั่งเยอะมาก ฯลฯ\n├────────────────────\n│• รับประกันทุกราคา\n│• ทักมาคุยได้\n│• สอบถามราคาได้\n│• มีบอทล็อกอิน\n│• มีกลุ่มให้ลูกค้า\n│• ดูแลตลอดการใช้งาน\n├────────────────────\n│   🎃 สนใจ กดที่ลิงค์ & ทักแชท 🎃\n├────────────────────\n│🍎 ติดต่อ ทักได้ 24 ชม.\n│http://line.me/ti/p/~maxxxxxxxxxxxxxxxx\n├────────────────────\n│🍎 เพจติดต่อ ทักได้ 24 ชม.\n│http://line.me/ti/p/%40jnx0914l\n╰────────────────────",
+    "contactBan": false,
+    "decode": true,
+    "decode": [],
+    "defendMode": false,
+    "delFriend": false,
+    "detectUnsend": false,
+    "drawink": [],
+    "drawink": true,
+    "groupInvite": false,
+    "keyCommand": "",
+    "KickOn": true,
+    "K-lock": true,
+    "kingchangeDual": false,
+    "leaveRoom": true,
+    "lock_name": {},
+    "liked": 30653,
+    "message": "╭────────────────────\n│    🍎 รับติดบอทป้องกัน & เฟ็ก 🍎\n├────────────────────\n│• ป้องกันกลุ่มแยกกลุ่ม & บล็อก\n│• บินกลุ่มได้ & ยกเชิญ แค่ 100 บาท\n│• ลบรัน & แทคทั้งห้อง & ต้อนรับ\n│• เพิ่มบัญชีดำ & เตะดำ & ล้างดำ\n│• สามารถเล่นได้หลายรูปแบบ\n│• ลูกเล่นเยอะ\n│• มีบอทล็อกอินใช้ได้ 24 ชั่วโมง\n│• รับจ้างโปรโมทร้าน & ฝากขาย\n│• มีไฟล์บอทขายทุกชนิด\n│• มีไฟล์บอทบินขาย 200 บาท\n│• มีไฟล์บอทเฟ็กขาย 1200 บาท\n│• มีไฟล์บอทป้องกันขาย 600 บาท\n│• มีสคิปจาก GitHub ขายทุกชนิด\n│• มีบอทให้เช่า 100 บ.  ต่อเดือน\n│• มีลิ้งบินขาย 30 ต่อลิ้ง\n│• มีคำสั่งบินกลุ่ม\n│• มีคำสั่งเยอะมาก ฯลฯ\n├────────────────────\n│• รับประกันทุกราคา\n│• ทักมาคุยได้\n│• สอบถามราคาได้\n│• มีบอทล็อกอิน\n│• มีกลุ่มให้ลูกค้า\n│• ดูแลตลอดการใช้งาน\n├────────────────────\n│   🎃 สนใจ กดที่ลิงค์ & ทักแชท 🎃\n├────────────────────\n│🍎 ติดต่อ ทักได้ 24 ชม.\n│http://line.me/ti/p/~maxxxxxxxxxxxxxxxx\n├────────────────────\n│🍎 เพจติดต่อ ทักได้ 24 ชม.\n│http://line.me/ti/p/%40jnx0914l\n╰────────────────────",
+    "messageSticker": {
+        "addName": null,
+        "addStatus": false,
+        "listSticker": {
+            "addSticker": {
+                "STKID": "",
+                "STKPKGID": "",
+                "STKVER": ""
+            },
+            "leaveSticker": {
+                "STKID": "",
+                "STKPKGID": "",
+                "STKVER": ""
+            },
+            "readerSticker": {
+                "STKID": "",
+                "STKPKGID": "",
+                "STKVER": ""
+            },
+            "responSticker": {
+                "STKID": "",
+                "STKPKGID": "",
+                "STKVER": ""
+            },
+            "sleepSticker": null,
+            "welcomeSticker": {
+                "STKID": "",
+                "STKPKGID": "",
+                "STKVER": ""
+            }
+        }
+    },
+    "memberCancel": {
+        "members": 30,
+        "on": true
+    },
+    "mimic": {
+        "status": true,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "",
+        "displayName": "",
+        "pictureStatus": "",
+        "statusMessage": "",
+        "videoProfile": "",
+        "coverId": ""
+    },
+    "mycc": {},
+    "newWelcome": false,
+    "protectGroup": {},
+    "rezlchangeDual": false,
+    "ryncc": {},
+    "rynchangeDual": false,
+    "setKey": false,
+    "simiSimi": [],
+    "sniff": [],
+    "sapa": false,
+    "sticker": false,
+    "spamCall": true,
+    "sticker": [],
+    "TrapCode": false,
+    "tatan": "Radisti",
+    "timeRestart": {},
+    "token": {},
+    "postId": {},
+    "unbanContact": false,
+    "unsendMessage": false,
+    "watercolor": [],
+    "watercolor": true,
+    "welcomee": {},
+    "welcome":"สวัสดีครับ ยินดีต้อนรับ เข้าร่วมกลุ่มนะครับ 💕",
+    "leave" : "อ่าวออกซะละ โชคดี 💕"
+}

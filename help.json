@@ -1,0 +1,435 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ゲームの一覧を表示します",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "gamehelp"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "メッセージ登録のヘルプを表示します",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "messagehelp"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "置き換えタグのヘルプを表示します",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "置き換えタグhelp"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "グループの細かい設定が出来ます",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "グループ管理"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "グループのアナリティクスを表示します。",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "groupdata"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "あなたのアナリティクスを表示します。",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "mydata"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "文字を読み上げます",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "voice[name]さんようこそ"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "連呼しますnumの後に回数を指定します",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "連呼あいうえおnum10"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "botの速度を表示します",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "speed"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "プロフィールの情報を最新にします。",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "update"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "google検索をします",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "検索LINE"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "wikipedia検索をします",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "wikipedia天気の子"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "LINEからツイートができます",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "ツイートLINEからツイートしています"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "YouTubeダウンロード",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "https://youtu.be/DOacGGRLi64"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "【修正中】twitterの動画をダウンロードします",
+                "flex": 5,
+                "wrap": true
+              },
+              {
+                "type": "button",
+                "style": "primary",
+                "flex": 2,
+                "action": {
+                  "type": "message",
+                  "label": "表示",
+                  "text": "https://twitter.com/a810810931931/status/1148970281999855622"
+                }
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          }
+        ]
+      }
+    }
+  ]
+}
