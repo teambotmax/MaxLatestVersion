@@ -48,15 +48,7 @@ from youtube_dl import YoutubeDL
 import requests, json
 _session = requests.session()
 requests.packages.urllib3.disable_warnings()
-#loop = uvloop.new_event_loop()
-try:
-    with open('token.txt','r') as lg:
-        MAXz = lg.read()
-        maxbots = TEAMBOTMAXv2(MAXz)
-except:
-    maxbots = TEAMBOTMAXv2()
-    with open('token.txt','w') as lg:
-        lg.write(maxbots.authToken)
+maxbots = TEAMBOTMAXv2("maxloginsb@gmail.com","0954517662za",appName="IOSIPAD\t10.1.1\tiPhone OS\t1")
 print ('++ Auth Token : %s' % maxbots.authToken)
 maxbotsMid = maxbots.profile.mid
 maxbotsStart = time.time()
