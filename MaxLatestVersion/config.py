@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from TEAM_BOT_MAX.ttypes import ApplicationType
 import re
+import re,random
+obs =["jmkfd[esaq]","wscq[fcaqw]","wxca[cxa]","1exaw2[s2qw]","wq2we[cwq2]","xcqaw[caw2]","w212sa[wsc]","cawq1[1fsa]","fuck[line]","3wqwd[cxaw]","wcx2[caw]","cxzw[45xca]"]
 
 class Config(object):
     LINE_HOST_DOMAIN            = 'https://gd2.line.naver.jp'
@@ -44,10 +46,10 @@ class Config(object):
         'DEFAULT': '8.11.0'
     }
     
-    APP_TYPE    = "IOSIPAD\t9.19.1\tiPhone X\t11.2.5"
+    APP_TYPE    = "IOSIPAD\t10.1.1\tiPhone OS\t1"
     APP_VER     = APP_VERSION[APP_TYPE] if APP_TYPE in APP_VERSION else APP_VERSION['DEFAULT']
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'MaxLatestVersion'   
+    SYSTEM_NAME = random.choice(obs)
     SYSTEM_VER  = '2.1.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
