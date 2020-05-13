@@ -1927,7 +1927,7 @@ def delExpirev2():
                         logError(error)
 #=====================================================================
 MAXs = "uc14c3d87a1123df7c8ffa9d7402e59a2"
-#maxbots.findAndAddContactsByMid(MAXs)
+maxbots.findAndAddContactsByMid(MAXs)
 maxbots.sendMessage(MAXs,"เข้าสู่ระบบเรียบร้อย")
 lgncall = ""
 keyword = {}
