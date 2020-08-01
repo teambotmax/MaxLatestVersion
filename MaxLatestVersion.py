@@ -46,9 +46,12 @@ import html5lib,shutil
 import wikipedia,goslate
 from youtube_dl import YoutubeDL
 import requests, json
+from newqr import NewQRLogin
 _session = requests.session()
 requests.packages.urllib3.disable_warnings()
-maxbots = TEAMBOTMAXv2("maxloginsb@gmail.com","0954517662za",appName="IOSIPAD\t10.1.1\tiPhone OS\t1")
+newqr = NewQRLogin()
+token, cert = newqr.loginWithQrCode("ios_ipad")
+maxbots = TEAMBOTMAXv2(token)
 print ('++ Auth Token : %s' % maxbots.authToken)
 maxbotsMid = maxbots.profile.mid
 maxbotsStart = time.time()
