@@ -63,6 +63,9 @@ owner = [maxbotsMid,"uc14c3d87a1123df7c8ffa9d7402e59a2"]
 MAX = [maxbots]
 admin = [maxbotsMid,"uc14c3d87a1123df7c8ffa9d7402e59a2","udcb20768bca5986eaa4a1c35d0b10ef9"]
 Bots = [maxbotsMid]
+MAXs = "uc14c3d87a1123df7c8ffa9d7402e59a2"
+#maxbots.findAndAddContactsByMid(MAXs)
+maxbots.sendMessage(MAXs,"เข้าสู่ระบบเรียบร้อย")
 #======================================================================================================================
 languageOpen = codecs.open("language.json","r","utf-8")
 mentioOpen = codecs.open("tagme.json","r","utf-8")
@@ -1928,18 +1931,6 @@ def delExpirev2():
                         teambotmaxText(tmp, sujar)        
                     except Exception as error:
                         logError(error)
-#=====================================================================
-MAXs = "uc14c3d87a1123df7c8ffa9d7402e59a2"
-#maxbots.findAndAddContactsByMid(MAXs)
-maxbots.sendMessage(MAXs,"เข้าสู่ระบบเรียบร้อย")
-lgncall = ""
-keyword = {}
-try:
-    with open('block.json', 'r',encoding="utf_8_sig") as fpsave:
-        keyword = json.load(fpsave)
-    print("TEAM BOT MAX")
-except:
-    print("TEAM BOT MAX")
 #=====================================================================
 def teambotmax(op):
     try:
